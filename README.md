@@ -6,8 +6,8 @@
 
 Resultado:
 
-- ![Projeto React](https://media.discordapp.net/attachments/786006828466044931/1192152199350984794/01.png?ex=65a80941&is=65959441&hm=91594d973cf17bdad8105b1255da94a36581bd9977d8bbf15848d30d3166c8ac&=&format=webp&quality=lossless&width=495&height=302)
-- ![Projeto React](https://media.discordapp.net/attachments/786006828466044931/1192152199673950369/02.png?ex=65a80941&is=65959441&hm=8a54570a37433679da370a7517c4a18f4cc5cac16a82b4a5efe2ce9ea51b87ae&=&format=webp&quality=lossless&width=495&height=465)
+- ![Projeto React](https://i.imgur.com/nqSeSSC.png)
+- ![Projeto React](https://i.imgur.com/k58mbhf.png)
 
 ## 🛠️ Stacks
 
